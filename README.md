@@ -1,4 +1,4 @@
-#Shark Tank Report
+# Shark Tank Report
 
 Key Highlights:
 1. Investment Pattern, Explore which sectors are attracting the most investment and which Sharks are the biggest investors.
@@ -9,7 +9,7 @@ This project has not only honed my skills in data visualization and analysis usi
 
 [Report Link](https://app.powerbi.com/groups/me/reports/4322e577-92d4-49ec-8313-97c07b14071e/c6f8c24d507a8e9fd45d?experience=power-bi)
 
-##Report Dashbaords
+## Report Dashbaords
 
 **Main Dashboard**
 ![Main Report](https://github.com/user-attachments/assets/91eb3a25-08c7-46bd-b99a-f3c20a73891f)
