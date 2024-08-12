@@ -8,7 +8,7 @@
 ***Imamges of the report
 
 **Main Dashboard**
-![Main Dashboard(https://github.com/user-attachments/assets/92a2c39a-d1cf-472c-91ae-24c4fd6272db)
+![Main Dashboard](https://github.com/user-attachments/assets/92a2c39a-d1cf-472c-91ae-24c4fd6272db)
 
 **Map**
 ![Map](https://github.com/user-attachments/assets/17f9ea26-658c-432c-b068-5840c78e6df1)
