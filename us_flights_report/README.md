@@ -1,5 +1,14 @@
 # US Flight Report
 
+This Power BI Project provides a comprehensive analysis of US Flights, focusing on key metrics such as flight details, cancellation, diversions, and state-specific environmental conditions like temperature, pressure, wind, etc. The interactive dashboards including:
+
+1. Flight Details - Offering insights into flight patterns and statistics.
+2. Cancellation/Diverted Details - Highlights trends and reasons behind disruptions.
+3. Map - Visualising all the states with total flights and cancellation count.
+4. State Details - Presenting a detailed overview of weather conditions and their potential impacts on flights operation. In depth analysis of every state flight pattern.
+
+This projects aims to deliver valuable insights for airlines, travellers, and stakeholders by leveraging data to enhance decision-making and operational efficiency.
+
 **Power Bi .pbix file size is too high. Can't upload*
 **Added Published Report link and other details*
 
