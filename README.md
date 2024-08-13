@@ -4,7 +4,7 @@ This repository contains projects on Microsoft Power BI along with datasets.
 
 *List*
 1. US Flight Report.
-2. Shark Tank India season 1 and 2 Report.
+2. [Shark Tank India season 1 and 2 Report.](https://github.com/AbhishekBiswas-github/Microsoft_PowerBI_Projects/tree/main/shark_tank_report)
 3. Student Performance Report.
 
 **Project snapshosts**
