@@ -30,7 +30,5 @@ This Power BI project analyzes factors influencing MBA admissions, offering insi
 * *Academic Performance*: Admissions distribution based on GMAT scores and GPA, showing academic trends.
 * *Diversity Analysis*: Gender, racial, and international vs. domestic representation insights, highlighting inclusivity in the admissions process.
 * *Industry Experience*: Background analysis of admitted students, reflecting industry contributions. This project showcases patterns in academic and demographic factors, supporting data-driven admissions strategies. The dashboard utilizes advanced Power BI features like DAX measures, data relationships, and interactive visuals to provide a comprehensive view.
-**Project snapshosts**
-![Image](https://github.com/user-attachments/assets/90ba036a-8029-4ac4-97b5-f3fa226e23e1)
 
 
