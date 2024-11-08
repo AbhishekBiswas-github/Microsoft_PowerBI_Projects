@@ -9,8 +9,8 @@ This Power BI Project provides a comprehensive analysis of US Flights, focusing 
 
 This projects aims to deliver valuable insights for airlines, travellers, and stakeholders by leveraging data to enhance decision-making and operational efficiency.
 
-**Power Bi .pbix file size is too high. Can't upload*
-**Added Published Report link and other details*
+**Power Bi .pbix file size is too high. Can't upload**
+*Added Published Report link and other details*
 
 [Report Link](https://app.powerbi.com/groups/me/reports/707bbe4a-674a-48a3-9641-36220c35f3dc/ReportSectionb5441c4245375799e76e?experience=power-bi)
 
