@@ -4,11 +4,11 @@ Welcome to my GitHub repository! Here, you'll find a collection of my data analy
 
 1. **[US Flight Report.](https://github.com/AbhishekBiswas-github/Microsoft_PowerBI_Projects/tree/main/us_flights_report)**
 
-This Power BI project provides an in-depth analysis of US flight data, exploring crucial metrics such as flight patterns, cancellations, diversions, and state-specific environmental conditions like temperature, pressure, and wind. Interactive dashboards cover: <br>
-* *Flight Details*: Insights into flight patterns and operational statistics.
-* *Cancellation/Diverted Details*: Trends and reasons behind flight disruptions.
-* *State Map*: Visual representation of flight data by state, including total flights and cancellation counts.
-* *State-Specific Details*: Detailed analysis of weather impact on flight operations in each state. This project aims to empower airlines, travelers, and stakeholders with a
+   This Power BI project provides an in-depth analysis of US flight data, exploring crucial metrics such as flight patterns, cancellations, diversions, and state-specific environmental conditions like temperature, pressure, and wind. Interactive dashboards cover: <br>
+   * *Flight Details*: Insights into flight patterns and operational statistics.
+   * *Cancellation/Diverted Details*: Trends and reasons behind flight disruptions.
+   * *State Map*: Visual representation of flight data by state, including total flights and cancellation counts.
+   * *State-Specific Details*: Detailed analysis of weather impact on flight operations in each state. This project aims to empower airlines, travelers, and stakeholders with a
 
 2. **[Shark Tank India season 1 and 2 Report.](https://github.com/AbhishekBiswas-github/Microsoft_PowerBI_Projects/tree/main/shark_tank_report)**
    
