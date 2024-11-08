@@ -2,7 +2,6 @@
 
 Welcome to my GitHub repository! Here, you'll find a collection of my data analysis and visualization projects created using Power BI, with a focus on delivering impactful insights through interactive dashboards. Each project is crafted to serve distinct industries and stakeholders, providing valuable data-driven perspectives for decision-making. Below is an overview of each project included in this repository:
 
-*List*
 1. **[US Flight Report.](https://github.com/AbhishekBiswas-github/Microsoft_PowerBI_Projects/tree/main/us_flights_report)**
 
 This Power BI project provides an in-depth analysis of US flight data, exploring crucial metrics such as flight patterns, cancellations, diversions, and state-specific environmental conditions like temperature, pressure, and wind. Interactive dashboards cover: <br>
