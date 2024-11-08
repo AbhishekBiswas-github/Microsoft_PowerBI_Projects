@@ -15,3 +15,10 @@ In this project, I analyzed key factors that influence MBA admissions and visual
 4. Provided a clearer picture of students' work experience across various industries, useful for shaping cohort composition.
 
 This project was built using advanced Power BI functionalities such as data relationships, DAX measures, and interactive visuals to create a comprehensive admissions dashboard.
+
+**REPORT IMAGES**
+
+![Main](https://github.com/user-attachments/assets/886f7809-cf9c-4a72-8619-38caabbe4774)
+
+![Other Insights](https://github.com/user-attachments/assets/13f48d85-f4e5-469e-ab1f-5050564adb28)
+
