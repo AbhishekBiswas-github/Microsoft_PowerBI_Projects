@@ -18,7 +18,7 @@ This project was built using advanced Power BI functionalities such as data rela
 
 **REPORT IMAGES**
 
-![Main](https://github.com/user-attachments/assets/886f7809-cf9c-4a72-8619-38caabbe4774)
+![Main](https://github.com/user-attachments/assets/c67d85a1-94f9-4424-ac64-1c64120ce4dc)
 
 ![Other Insights](https://github.com/user-attachments/assets/13f48d85-f4e5-469e-ab1f-5050564adb28)
 
