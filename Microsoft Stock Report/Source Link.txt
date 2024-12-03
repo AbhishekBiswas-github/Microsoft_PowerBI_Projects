@@ -1,0 +1,3 @@
+Google Stock : https://www.kaggle.com/datasets/surajjoshi26/google-stock-price2004-2023
+
+Microsoft Stock : https://www.kaggle.com/datasets/prajwaldongre/microsoft-stock-price2000-2023
