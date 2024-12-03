@@ -30,4 +30,11 @@ Welcome to my GitHub repository! Here, you'll find a collection of my data analy
    * *Diversity Analysis*: Gender, racial, and international vs. domestic representation insights, highlighting inclusivity in the admissions process.
    * *Industry Experience*: Background analysis of admitted students, reflecting industry contributions. This project showcases patterns in academic and demographic factors, supporting data-driven admissions strategies. The dashboard utilizes advanced Power BI features like DAX measures, data relationships, and interactive visuals to provide a comprehensive view.
 
+5. **[Microsoft Stock Report](https://github.com/AbhishekBiswas-github/Microsoft_PowerBI_Projects/tree/main/Microsoft%20Stock%20Report)**
+
+      This Power BI project provides a comprehensive analysis of Microsoft's stock performance from 2000 to 2023, offering valuable insights for investors and market enthusiasts:
+   * Stock Volume Trends: Tracking purchase volumes over different time frames.
+   * Price Extremes: Identifying the highest and lowest stock prices during trading sessions.
+   * Adjusted vs. Closing Price: Comparing traditional closing prices with adjusted figures accounting for corporate actions like dividends and stock splits.
+   * Time-Based Insights: A dynamic dashboard showcasing stock performance on yearly, quarterly, monthly, weekly, and daily bases.
 
