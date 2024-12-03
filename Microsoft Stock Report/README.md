@@ -1,5 +1,8 @@
 ## Microsoft Stock Report (2000–2023) 📈
 
+![microsoft](https://github.com/user-attachments/assets/5fd9031b-98ba-44ae-abe8-766a601ceaac)
+
+
 This project leverages the full potential of Power BI’s tools, including:
 1. M Query for crafting precise measures
 2. Power Query for seamless data transformation
