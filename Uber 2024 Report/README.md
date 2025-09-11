@@ -29,7 +29,7 @@ The dataset used in this project is **strictly for personal learning and demonst
 It does **not represent official Uber data**, and **no authentication guarantee** is provided.  
 
 ## 📸 Dashboard Preview  
-(Add screenshots of your Power BI dashboard here for better visualization)  
+Screenshorts are available in the Screenshots folder.
 
 ---
 
