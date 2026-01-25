@@ -1,6 +1,7 @@
 # 🍎 Apple Global Sales & Performance Analytics Dashboard
 
-[Report Image]<img width="3750" height="2500" alt="analytics report" src="https://github.com/user-attachments/assets/b2961486-d712-4a83-a27c-0c4e0db66050" />
+## Report Image
+<img width="3750" height="2500" alt="analytics report" src="https://github.com/user-attachments/assets/b2961486-d712-4a83-a27c-0c4e0db66050" />
 
 )
 
