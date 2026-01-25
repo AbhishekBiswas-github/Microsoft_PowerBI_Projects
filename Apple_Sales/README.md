@@ -80,16 +80,15 @@ The report allows users to navigate through **8 specialized analytic views**:
 
 ## 📸 Screenshots
 
-
 | **Overview** | **Geographical Analysis** |
+|:---:|:---:|
 |<img width="1205" height="721" alt="Screenshot 2026-01-22 233922" src="https://github.com/user-attachments/assets/6e424a98-7018-4680-8d6a-978526c904a0" />|
 |<img width="1387" height="723" alt="Screenshot 2026-01-22 234348" src="https://github.com/user-attachments/assets/d875ed16-d018-4724-b2f9-fe870353790b" />|
 
 | **Category Performance** | **Sales Trends** |
+|:---:|:---:|
 |<img width="1380" height="723" alt="Screenshot 2026-01-22 234142" src="https://github.com/user-attachments/assets/155d4973-0087-4686-96c2-d7404433b2c8" />|
 |<img width="1387" height="722" alt="Screenshot 2026-01-22 233952" src="https://github.com/user-attachments/assets/4b9933a0-f8c1-494c-8ec8-1cc9276a491b" />
-|
-
 
 ---
 ## Project Link)
